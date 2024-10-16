@@ -41,14 +41,14 @@ La idea era hacer algo basico paar entender el funcionamiento de react native us
 
 ## Estructura del proyecto
 
-![estructura](/img/mira%20la%20estructura.png)
+![estructura](/miPrimeraApp/img/mira%20la%20estructura.png)
 
 
 # Api Creada 
 
-![image](/img/WhatsApp%20Image%202024-10-16%20at%201.16.14%20AM.jpeg)
+![image](/miPrimeraApp/img/WhatsApp%20Image%202024-10-16%20at%201.16.14%20AM.jpeg)
 
-![image](/img/WhatsApp%20Image%202024-10-16%20at%201.16.13%20AM%20(1).jpeg)
+![image](/miPrimeraApp//img/WhatsApp%20Image%202024-10-16%20at%201.16.13%20AM%20(1).jpeg)
 
 ![image](./img/WhatsApp%20Image%202024-10-16%20at%201.16.12%20AM.jpeg)
 
