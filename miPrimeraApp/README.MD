@@ -122,4 +122,4 @@ Se creara en la raiz un archivo `app.json`
 `eas build -p android --profile preview`
 
 6. Descragar apk de expo
-![expo](/img/vamoo.png)
+![expo](/miPrimeraApp/img/vamoo.png)
