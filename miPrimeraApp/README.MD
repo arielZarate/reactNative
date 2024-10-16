@@ -54,7 +54,7 @@ La idea era hacer algo basico paar entender el funcionamiento de react native us
 
 ![image](./img/WhatsApp%20Image%202024-10-16%20at%201.16.13%20AM%20(2).jpeg)
 
-![image](/img/WhatsApp%20Image%202024-10-16%20at%201.16.12%20AM%20(1).jpeg)
+![image](/miPrimeraApp/img/WhatsApp%20Image%202024-10-16%20at%201.16.12%20AM%20(1).jpeg)
 
 
 
