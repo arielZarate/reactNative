@@ -4,7 +4,7 @@ Este es un proyecto creado con react-native un app TodoPost usando la api de jso
 
 [jsonplaceholder](https://jsonplaceholder.typicode.com/)
 
-![json](/img/crud%20de%20l%20api.png)
+![json](/miPrimeraApp/img/crud%20de%20l%20api.png)
 
 La idea era hacer algo basico paar entender el funcionamiento de react native usando expo 
 
